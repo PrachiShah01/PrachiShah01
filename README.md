@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PrachiShah01
 - 👀 I’m interested in Flutter Development and UI UX Designing
-- 🌱 I’m currently learning AWS
 - 📫 How to reach me prachi01shah09@gmail.com
 
 <!---
